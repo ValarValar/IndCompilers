@@ -1,0 +1,45 @@
+C:\Users\Ита\Desktop\mmcs-cs311-assignments-Jeday-master\Module8\obj\x86\Debug\ParserGenerator.csprojAssemblyReference.cache
+C:\Users\Ита\Desktop\mmcs-cs311-assignments-Jeday-master\Module8\obj\x86\Debug\ParserGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Ита\Desktop\mmcs-cs311-assignments-Jeday-master\Module8\bin\Debug\SimpleLang.exe
+C:\Users\Ита\Desktop\mmcs-cs311-assignments-Jeday-master\Module8\bin\Debug\SimpleLang.pdb
+C:\Users\Ита\Desktop\mmcs-cs311-assignments-Jeday-master\Module8\bin\Debug\System.Numerics.dll
+C:\Users\Ита\Desktop\mmcs-cs311-assignments-Jeday-master\Module8\bin\Debug\ru\System.Numerics.resources.dll
+C:\Users\Ита\Desktop\mmcs-cs311-assignments-Jeday-master\Module8\obj\x86\Debug\ParserGenerator.csproj.CopyComplete
+C:\Users\Ита\Desktop\mmcs-cs311-assignments-Jeday-master\Module8\obj\x86\Debug\SimpleLang.exe
+C:\Users\Ита\Desktop\mmcs-cs311-assignments-Jeday-master\Module8\obj\x86\Debug\SimpleLang.pdb
+C:\Users\je_day\Desktop\mmcs-cs311-assignments-Jeday\Module8\bin\Debug\SimpleLang.exe
+C:\Users\je_day\Desktop\mmcs-cs311-assignments-Jeday\Module8\bin\Debug\SimpleLang.pdb
+C:\Users\je_day\Desktop\mmcs-cs311-assignments-Jeday\Module8\bin\Debug\System.Numerics.dll
+C:\Users\je_day\Desktop\mmcs-cs311-assignments-Jeday\Module8\bin\Debug\ru\System.Numerics.resources.dll
+C:\Users\je_day\Desktop\mmcs-cs311-assignments-Jeday\Module8\obj\x86\Debug\ParserGenerator.csprojAssemblyReference.cache
+C:\Users\je_day\Desktop\mmcs-cs311-assignments-Jeday\Module8\obj\x86\Debug\ParserGenerator.csproj.CoreCompileInputs.cache
+C:\Users\je_day\Desktop\mmcs-cs311-assignments-Jeday\Module8\obj\x86\Debug\ParserGenerator.csproj.CopyComplete
+C:\Users\je_day\Desktop\mmcs-cs311-assignments-Jeday\Module8\obj\x86\Debug\SimpleLang.exe
+C:\Users\je_day\Desktop\mmcs-cs311-assignments-Jeday\Module8\obj\x86\Debug\SimpleLang.pdb
+C:\Users\je_day\Desktop\compilers_indv\bin\Debug\SimpleLang.exe
+C:\Users\je_day\Desktop\compilers_indv\bin\Debug\SimpleLang.pdb
+C:\Users\je_day\Desktop\compilers_indv\bin\Debug\System.Numerics.dll
+C:\Users\je_day\Desktop\compilers_indv\bin\Debug\ru\System.Numerics.resources.dll
+C:\Users\je_day\Desktop\compilers_indv\obj\x86\Debug\ParserGenerator.csprojAssemblyReference.cache
+C:\Users\je_day\Desktop\compilers_indv\obj\x86\Debug\ParserGenerator.csproj.CoreCompileInputs.cache
+C:\Users\je_day\Desktop\compilers_indv\obj\x86\Debug\ParserGenerator.csproj.CopyComplete
+C:\Users\je_day\Desktop\compilers_indv\obj\x86\Debug\SimpleLang.exe
+C:\Users\je_day\Desktop\compilers_indv\obj\x86\Debug\SimpleLang.pdb
+D:\downloads\compilers_indv\bin\Debug\SimpleLang.exe
+D:\downloads\compilers_indv\bin\Debug\SimpleLang.pdb
+D:\downloads\compilers_indv\bin\Debug\System.Numerics.dll
+D:\downloads\compilers_indv\bin\Debug\ru\System.Numerics.resources.dll
+D:\downloads\compilers_indv\obj\x86\Debug\ParserGenerator.csprojAssemblyReference.cache
+D:\downloads\compilers_indv\obj\x86\Debug\ParserGenerator.csproj.CoreCompileInputs.cache
+D:\downloads\compilers_indv\obj\x86\Debug\ParserGenerator.csproj.CopyComplete
+D:\downloads\compilers_indv\obj\x86\Debug\SimpleLang.exe
+D:\downloads\compilers_indv\obj\x86\Debug\SimpleLang.pdb
+D:\DeskTop\Мехмат\Компиляторы 2019\compilers_indv\bin\Debug\SimpleLang.exe
+D:\DeskTop\Мехмат\Компиляторы 2019\compilers_indv\bin\Debug\SimpleLang.pdb
+D:\DeskTop\Мехмат\Компиляторы 2019\compilers_indv\bin\Debug\System.Numerics.dll
+D:\DeskTop\Мехмат\Компиляторы 2019\compilers_indv\bin\Debug\ru\System.Numerics.resources.dll
+D:\DeskTop\Мехмат\Компиляторы 2019\compilers_indv\obj\x86\Debug\ParserGenerator.csprojAssemblyReference.cache
+D:\DeskTop\Мехмат\Компиляторы 2019\compilers_indv\obj\x86\Debug\ParserGenerator.csproj.CoreCompileInputs.cache
+D:\DeskTop\Мехмат\Компиляторы 2019\compilers_indv\obj\x86\Debug\ParserGenerator.csproj.CopyComplete
+D:\DeskTop\Мехмат\Компиляторы 2019\compilers_indv\obj\x86\Debug\SimpleLang.exe
+D:\DeskTop\Мехмат\Компиляторы 2019\compilers_indv\obj\x86\Debug\SimpleLang.pdb
